@@ -1,0 +1,14 @@
+collections:
+  Attack on Titan Collection:
+    file_poster: config/assets/collections/posters/Attack on Titan Collection.jpg
+    file_background: config/assets/collections/backgrounds/Attack on Titan Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Shingeki no Kyojin"
+          - "Shingeki no Kyojin Season 2"
+          - "Shingeki no Kyojin Season 3"
+          - "Shingeki no Kyojin Season 3 Part 2"
+          - "Shingeki no Kyojin: The Final Season"
+          - "Shingeki no Kyojin: The Final Season Part 2"
+    build_collection: true
