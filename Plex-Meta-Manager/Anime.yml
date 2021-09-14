@@ -1,7 +1,5 @@
 collections:
   91 Days Collection:
-#    file_poster: config/assets/collections/posters/91 Days Collection.jpg
-#    file_background: config/assets/collections/backgrounds/91 Days Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -10,8 +8,6 @@ collections:
     build_collection: true
 
   Accel World Collection:
-#    file_poster: config/assets/collections/posters/Accel World Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Accel World Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -20,8 +16,6 @@ collections:
     build_collection: true
 
   Active Raid Collection:
-#    file_poster: config/assets/collections/posters/Active Raid Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Active Raid Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -30,8 +24,6 @@ collections:
     build_collection: true
 
   Ajin Collection:
-#    file_poster: config/assets/collections/posters/Ajin Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Ajin Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -40,8 +32,6 @@ collections:
     build_collection: true
 
   Aldnoah.Zero Collection:
-#    file_poster: config/assets/collections/posters/Aldnoah.Zero Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Aldnoah.Zero Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -50,8 +40,6 @@ collections:
     build_collection: true
 
   Angel Beats! Collection:
-#    file_poster: config/assets/collections/posters/Angel Beats Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Angel Beats Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -61,8 +49,6 @@ collections:
     build_collection: true
 
   Attack on Titan Collection:
-    file_poster: config/assets/collections/posters/Attack on Titan Collection.jpg
-    file_background: config/assets/collections/backgrounds/Attack on Titan Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -75,8 +61,6 @@ collections:
     build_collection: true
 
   Bleach Collection:
-    file_poster: config/assets/collections/posters/Bleach.jpg
-    file_background: config/assets/collections/backgrounds/Bleach.jpg
     plex_search:
       any:
         title.ends: 
@@ -84,8 +68,6 @@ collections:
     build_collection: true
 
   Food Wars Collection:
-#    file_poster: config/assets/collections/posters/Food Wars Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Food Wars Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -99,8 +81,6 @@ collections:
     build_collection: true
 
   Ghost in the Shell Collection:
-    file_poster: config/assets/collections/posters/Ghost in the Shell Collection.png
-#    file_background: config/assets/collections/backgrounds/Ghost in the Shell Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -110,8 +90,6 @@ collections:
     build_collection: true
 
   High School DxD Collection:
-#    file_poster: config/assets/collections/posters/High School DxD Collection.jpg
-#    file_background: config/assets/collections/backgrounds/High School DxD Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -128,8 +106,6 @@ collections:
     build_collection: true
 
   K-On! Collection:
-#    file_poster: config/assets/collections/posters/K-On Collection.jpg
-#    file_background: config/assets/collections/backgrounds/K-On Collection.jpg
     plex_search:
       any:
         title.ends: 
@@ -140,8 +116,6 @@ collections:
     build_collection: true
 
   Evangelion Collection:
-    file_poster: config/assets/collections/posters/Evangelion Collection.jpg
-#    file_background: config/assets/collections/backgrounds/Evangelion Collection.jpg
     plex_search:
       any:
         title.ends: 
