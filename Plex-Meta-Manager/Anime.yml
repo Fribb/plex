@@ -1,4 +1,65 @@
 collections:
+  91 Days Collection:
+#    file_poster: config/assets/collections/posters/91 Days Collection.jpg
+#    file_background: config/assets/collections/backgrounds/91 Days Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "91 Days"
+          - "91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita"
+    build_collection: true
+
+  Accel World Collection:
+#    file_poster: config/assets/collections/posters/Accel World Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Accel World Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Accel World"
+          - "Accel World EX"
+    build_collection: true
+
+  Active Raid Collection:
+#    file_poster: config/assets/collections/posters/Active Raid Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Active Raid Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari"
+          - "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd"
+    build_collection: true
+
+  Ajin Collection:
+#    file_poster: config/assets/collections/posters/Ajin Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Ajin Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Ajin"
+          - "Ajin 2nd Season"
+    build_collection: true
+
+  Aldnoah.Zero Collection:
+#    file_poster: config/assets/collections/posters/Aldnoah.Zero Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Aldnoah.Zero Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Aldnoah.Zero"
+          - "Aldnoah.Zero 2nd Season"
+    build_collection: true
+
+  Angel Beats! Collection:
+#    file_poster: config/assets/collections/posters/Angel Beats Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Angel Beats Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Angel Beats!"
+          - "Angel Beats! Specials"
+          - "Angel Beats!: Another Epilogue"
+    build_collection: true
+
   Attack on Titan Collection:
     file_poster: config/assets/collections/posters/Attack on Titan Collection.jpg
     file_background: config/assets/collections/backgrounds/Attack on Titan Collection.jpg
@@ -12,3 +73,86 @@ collections:
           - "Shingeki no Kyojin: The Final Season"
           - "Shingeki no Kyojin: The Final Season Part 2"
     build_collection: true
+
+  Bleach Collection:
+    file_poster: config/assets/collections/posters/Bleach.jpg
+    file_background: config/assets/collections/backgrounds/Bleach.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Bleach"
+    build_collection: true
+
+  Food Wars Collection:
+#    file_poster: config/assets/collections/posters/Food Wars Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Food Wars Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Shokugeki no Souma"
+          - "Shokugeki no Souma: Ni no Sara"
+          - "Shokugeki no Souma: Ni no Sara OVA"
+          - "Shokugeki no Souma: San no Sara"
+          - "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen"
+          - "Shokugeki no Souma: Shin no Sara"
+          - "Shokugeki no Souma: Gou no Sara"
+    build_collection: true
+
+  Ghost in the Shell Collection:
+    file_poster: config/assets/collections/posters/Ghost in the Shell Collection.png
+#    file_background: config/assets/collections/backgrounds/Ghost in the Shell Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Koukaku Kidoutai: Stand Alone Complex"
+          - "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+          - "Koukaku Kidoutai Arise: Alternative Architecture"
+    build_collection: true
+
+  High School DxD Collection:
+#    file_poster: config/assets/collections/posters/High School DxD Collection.jpg
+#    file_background: config/assets/collections/backgrounds/High School DxD Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "High School DxD"
+          - "High School DxD Specials"
+          - "High School DxD OVA"
+          - "High School DxD New"
+          - "High School DxD New: Oppai, Tsutsumimasu!"
+          - "High School DxD BorN"
+          - "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video"
+          - "High School DxD BorN: Yomigaeranai Fushichou"
+          - "High School DxD Hero: Taiikukan-ura no Holy"
+          - "High School DxD Hero"
+    build_collection: true
+
+  K-On! Collection:
+#    file_poster: config/assets/collections/posters/K-On Collection.jpg
+#    file_background: config/assets/collections/backgrounds/K-On Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "K-On!"
+          - "K-On!: Live House!"
+          - "K-On!!"
+          - "K-On!!: Keikaku!"
+    build_collection: true
+
+  Evangelion Collection:
+    file_poster: config/assets/collections/posters/Evangelion Collection.jpg
+#    file_background: config/assets/collections/backgrounds/Evangelion Collection.jpg
+    plex_search:
+      any:
+        title.ends: 
+          - "Neon Genesis Evangelion"
+    build_collection: true
+
+#   Collection:
+#    file_poster: config/assets/collections/posters/
+#    file_background: config/assets/collections/backgrounds/
+#    plex_search:
+#      any:
+#        title.ends: 
+#          - "Shingeki no Kyojin"
+#    build_collection: true
