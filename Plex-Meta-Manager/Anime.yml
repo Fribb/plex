@@ -1,132 +1,52 @@
 collections:
   91 Days Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "91 Days"
-          - "91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 32998, 34777
 
   Accel World Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Accel World"
-          - "Accel World EX"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 11759, 13939
 
   Active Raid Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari"
-          - "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 31790, 32301
 
   Ajin Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Ajin"
-          - "Ajin 2nd Season"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 31580, 33253
 
   Aldnoah.Zero Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Aldnoah.Zero"
-          - "Aldnoah.Zero 2nd Season"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 22729, 27655
 
   Angel Beats! Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Angel Beats!"
-          - "Angel Beats! Specials"
-          - "Angel Beats!: Another Epilogue"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 6547, 9062, 10067
 
   Attack on Titan Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Shingeki no Kyojin"
-          - "Shingeki no Kyojin Season 2"
-          - "Shingeki no Kyojin Season 3"
-          - "Shingeki no Kyojin Season 3 Part 2"
-          - "Shingeki no Kyojin: The Final Season"
-          - "Shingeki no Kyojin: The Final Season Part 2"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 16498, 25777, 35760, 38524, 40028, 38524
 
   Bleach Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Bleach"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 269
 
   Food Wars Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Shokugeki no Souma"
-          - "Shokugeki no Souma: Ni no Sara"
-          - "Shokugeki no Souma: Ni no Sara OVA"
-          - "Shokugeki no Souma: San no Sara"
-          - "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen"
-          - "Shokugeki no Souma: Shin no Sara"
-          - "Shokugeki no Souma: Gou no Sara"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 28171, 32282, 34480, 35788, 36949, 39940, 40902
 
   Ghost in the Shell Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Koukaku Kidoutai: Stand Alone Complex"
-          - "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
-          - "Koukaku Kidoutai Arise: Alternative Architecture"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 467, 801, 1566, 38799, 41750, 29325
 
   High School DxD Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "High School DxD"
-          - "High School DxD Specials"
-          - "High School DxD OVA"
-          - "High School DxD New"
-          - "High School DxD New: Oppai, Tsutsumimasu!"
-          - "High School DxD BorN"
-          - "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video"
-          - "High School DxD BorN: Yomigaeranai Fushichou"
-          - "High School DxD Hero: Taiikukan-ura no Holy"
-          - "High School DxD Hero"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 11617, 13357, 12729, 15451, 30300, 24703, 31326, 32215, 37719, 34281
 
   K-On! Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "K-On!"
-          - "K-On!: Live House!"
-          - "K-On!!"
-          - "K-On!!: Keikaku!"
-    build_collection: true
+#    collection_order: custom
+    mal_id: 5680, 6862, 7017, 7791, 9203, 9734
 
   Evangelion Collection:
-    plex_search:
-      any:
-        title.ends: 
-          - "Neon Genesis Evangelion"
-    build_collection: true
-
-#   Collection:
-#    file_poster: config/assets/collections/posters/
-#    file_background: config/assets/collections/backgrounds/
-#    plex_search:
-#      any:
-#        title.ends: 
-#          - "Shingeki no Kyojin"
-#    build_collection: true
+#    collection_order: custom
+    mal_id: 30
