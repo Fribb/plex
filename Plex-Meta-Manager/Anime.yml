@@ -23,6 +23,10 @@ collections:
 #    collection_order: custom
     mal_id: 6547, 9062, 10067
 
+  Assassination Classroom Collection:
+#    collection_order: custom
+    mal_id: 28405, 24833, 30654
+
   Attack on Titan Collection:
 #    collection_order: custom
     mal_id: 16498, 25777, 35760, 38524, 40028, 38524
@@ -50,3 +54,7 @@ collections:
   Evangelion Collection:
 #    collection_order: custom
     mal_id: 30
+  
+  Yuuki Yuuna Collection:
+#    collection_oder: custom
+    mal_id: 34284, 25519, 36798, 34445, 42587
