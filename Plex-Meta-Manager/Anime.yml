@@ -34,6 +34,9 @@ collections:
   Bleach Collection:
 #    collection_order: custom
     mal_id: 269
+  
+  Code Geass Lelouch of the Rebellion Collection:
+    mal_id: 1575, 2904
 
   Food Wars Collection:
 #    collection_order: custom
