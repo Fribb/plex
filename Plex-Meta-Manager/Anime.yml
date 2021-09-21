@@ -2,62 +2,93 @@ collections:
   91 Days Collection:
 #    collection_order: custom
     mal_id: 32998, 34777
+  
+  A Certain Magical Collection:
+    mal_id: 4654, 8937, 36432, 6213, 16049, 38481, 38480
 
   Accel World Collection:
-#    collection_order: custom
     mal_id: 11759, 13939
 
   Active Raid Collection:
-#    collection_order: custom
     mal_id: 31790, 32301
 
   Ajin Collection:
-#    collection_order: custom
     mal_id: 31580, 33253
 
   Aldnoah.Zero Collection:
-#    collection_order: custom
     mal_id: 22729, 27655
 
   Angel Beats! Collection:
-#    collection_order: custom
     mal_id: 6547, 9062, 10067
 
   Assassination Classroom Collection:
-#    collection_order: custom
     mal_id: 28405, 24833, 30654
 
   Attack on Titan Collection:
-#    collection_order: custom
     mal_id: 16498, 25777, 35760, 38524, 40028, 38524
 
   Bleach Collection:
-#    collection_order: custom
     mal_id: 269
   
   Code Geass Lelouch of the Rebellion Collection:
     mal_id: 1575, 2904
 
+  Evangelion Collection:
+    mal_id: 30
+
   Food Wars Collection:
-#    collection_order: custom
     mal_id: 28171, 32282, 34480, 35788, 36949, 39940, 40902
 
   Ghost in the Shell Collection:
-#    collection_order: custom
     mal_id: 467, 801, 1566, 38799, 41750, 29325
+  
+  Gintama Collection:
+    mal_id: 918, 9969, 15417, 28977, 34096, 35843, 36838, 37491, 44087, 39486
+  
+  Goblin Slayer Collection:
+    mal_id: 37349, 47160
 
   High School DxD Collection:
-#    collection_order: custom
     mal_id: 11617, 13357, 12729, 15451, 30300, 24703, 31326, 32215, 37719, 34281
+  
+  Hunter x Hunter Collection:
+    mal_id: 136, 11061
+  
+  Demon Slayer Collection:
+    mal_id: 38000, 47778
 
   K-On! Collection:
-#    collection_order: custom
     mal_id: 5680, 6862, 7017, 7791, 9203, 9734
-
-  Evangelion Collection:
-#    collection_order: custom
-    mal_id: 30
+  
+  Monogatari Collection:
+    mal_id: 15689, 5081, 11597, 17074, 28025, 31181, 32268, 35247, 21855
+  
+  Mushishi Collection:
+    mal_id: 457, 21329, 21939, 24687, 24701
+  
+  No Game No Life Collection:
+    mal_id: 19815
+  
+  Little Witch Academia Collection:
+    mal_id: 33489
+  
+  Re:Zero Collection:
+    mal_id: 31240, 39587, 42203
+  
+  Strike Witches Collection:
+    mal_id: 3667, 1862, 32866, 34644, 6381, 23725, 38005, 38004
+  
+  Sword Art Online Collection:
+    mal_id: 11757, 20021, 21881, 27891, 36474, 39597, 40540, 36475
+    
+  Tamako Market Collection:
+    mal_id: 16417, 17879
+    
+  Gurren Lagann Collection:
+    mal_id: 2001
+  
+  The Irregular Collection:
+    mal_id: 48375, 20785, 40497, 45572
   
   Yuuki Yuuna Collection:
-#    collection_oder: custom
     mal_id: 34284, 25519, 36798, 34445, 42587

@@ -1,6 +1,9 @@
 collections:
   Studio Ghibli Collection:
     mal_id: 10029, 2890, 1829, 578, 431, 7711, 16662, 512, 585, 164, 597, 21557, 1029, 199, 513, 523, 572, 1030, 416
+  
+  A Certain Magical Collection:
+    mal_id: 11743
 
   Berserk Golden Age Arc Collection:
     mal_id: 10218, 12113, 12115
@@ -13,6 +16,54 @@ collections:
   
   Code Geass Lelouch of the Rebellion Collection:
     mal_id: 34438, 34439, 34440
+
+  Evangelion Collection:
+    mal_id: 32, 2759, 3784, 3785, 3786
+    
+  Ghost in the Shell Collection:
+    mal_id: 43, 468, 4672, 17187, 19191, 19193, 19195, 27411, 1566, 49402, 31617
+  
+  Gintama Collection:
+    mal_id: 7472, 15335
+  
+  Goblin Slayer Collection:
+    mal_id: 39576
+  
+  Hunter x Hunter Collection:
+    mal_id: 13271, 19951
+  
+  Demon Slayer Collection:
+    mal_id: 40456
+  
+  Little Witch Academia Collection:
+    mal_id: 14349, 19489
+  
+  Monogatari Collection:
+    mal_id: 9260, 31757, 31758, 36999
+  
+  Mushishi Collection:
+    mal_id: 28957
   
   Naruto/Boruto Collection:
     mal_id: 442, 936, 2144, 2472, 4437, 6325, 8246, 10589, 13667, 16870, 28755, 32365
+  
+  No Game No Life Collection:
+    mal_id: 33674
+  
+  Re:Zero Collection:
+    mal_id: 38414, 36286, 39921
+  
+  Strike Witches Collection:
+    mal_id: 9751, 39987
+  
+  Sword Art Online Collection:
+    mal_id: 31765, 42916
+    
+  Tamako Market Collection:
+    mal_id: 23399, 21647
+    
+  Gurren Lagann Collection:
+    mal_id: 4107, 4565
+  
+  The Irregular Collection:
+    mal_id: 32900
