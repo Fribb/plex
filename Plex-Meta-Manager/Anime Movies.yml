@@ -28,6 +28,12 @@ collections:
 
   Evangelion Collection:
     mal_id: 32, 2759, 3784, 3785, 3786
+  
+  Fate Collection:
+    mal_id: 38085, 38086, 41497
+  
+  Fullmetal Alchemist Collection:
+    mal_id: 430, 9135
     
   Ghost in the Shell Collection:
     mal_id: 43, 468, 4672, 17187, 19191, 19193, 19195, 27411, 1566, 49402, 31617

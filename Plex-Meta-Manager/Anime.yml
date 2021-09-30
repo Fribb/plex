@@ -110,9 +110,27 @@ collections:
   
   Elfen Lied Collection:
     mal_id: 226, 376
+  
+  Eureka Seven Collection:
+    mal_id: 237, 12471, 34776, 14875
+   
+  Fairy Tail Collection:
+    mal_id: 6702, 22043, 35972, 49785
+  
+  Fate Collection:
+    mal_id: 34321, 10087, 11741, 356, 27821, 22297, 28701, 40206, 38084, 36915
+  
+  Fire Force Collection:
+    mal_id: 38671, 40956
 
   Food Wars Collection:
     mal_id: 28171, 32282, 34480, 35788, 36949, 39940, 40902
+  
+  Full Metal Panic! Collection:
+    mal_id: 71, 72, 6291, 73, 31931, 1015
+  
+  Fullmetal Alchemist Collection:
+    mal_id: 121, 5114
 
   Ghost in the Shell Collection:
     mal_id: 467, 801, 1566, 38799, 41750, 29325
