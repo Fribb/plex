@@ -1,6 +1,11 @@
 collections:
+    
   Studio Ghibli Collection:
-    mal_id: 10029, 2890, 1829, 578, 431, 7711, 16662, 512, 585, 164, 597, 21557, 1029, 199, 513, 523, 572, 1030, 416
+    mal_id: 10029, 2890, 1829, 578, 431, 7711, 16662, 512, 585, 164, 597, 21557, 1029, 199, 513, 523, 572, 1030, 416, 16664, 415, 743
+  
+  .hack// Collection:
+    file_poster: /config/assets/hack Collection.jpg
+    mal_id: 3269
   
   A Certain Magical Collection:
     mal_id: 11743

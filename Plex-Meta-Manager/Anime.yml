@@ -1,4 +1,9 @@
 collections:
+  
+  .hack// Collection:
+    file_poster: /config/assets/hack Collection.jpg
+    mal_id: 1487, 298, 2928, 299, 1143, 873, 48, 1487
+    
   91 Days Collection:
 #    collection_order: custom
     mal_id: 32998, 34777
@@ -82,7 +87,7 @@ collections:
     mal_id: 6880, 10418
   
   Demon Slayer Collection:
-    mal_id: 38000, 47778
+    mal_id: 38000, 49926, 47778, 51019
   
   Dimension W Collection:
     mal_id: 31163, 32410, 33069
@@ -130,7 +135,7 @@ collections:
     mal_id: 71, 72, 6291, 73, 31931, 1015
   
   Fullmetal Alchemist Collection:
-    mal_id: 121, 5114
+    mal_id: 121, 5114, 6421
 
   Ghost in the Shell Collection:
     mal_id: 467, 801, 1566, 38799, 41750, 29325

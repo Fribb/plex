@@ -1,0 +1,7 @@
+overlays:
+  4K:
+    overlay:
+      name: 4K    # This will look for a local overlays/4K.png in your config folder
+    plex_search:
+      all:
+        resolution: 4K
