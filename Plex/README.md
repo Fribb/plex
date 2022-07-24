@@ -46,6 +46,13 @@ Plex also supports that you can store your Trailers and Extras locally and that 
 * TV-Shows: https://support.plex.tv/articles/local-files-for-tv-show-trailers-and-extras/
 * Local Artists and Music Videos: https://support.plex.tv/articles/205568377-adding-local-artist-and-music-videos/
 
+### Adding Subtitles
+
+Plex can also read your local subtitle files that are then added, if correctly named, to the library item.
+Note that if the language code is missing, plex will mark this as "unkown" and the automatic language selection in your Account/Server language settings will not be able to select it.
+
+* https://support.plex.tv/articles/200471133-adding-local-subtitles-to-your-media/
+
 ### Manual Match or Fix Match
 
 If you notice that Plex didn't add the Metadata or actually added the wrong metadata then you have the ability to correc this through the "Fix Match" or "Manual Match" functionality
