@@ -1,7 +1,6 @@
 # Plex Media Server FAQ
 
 This document is to answer the common questions users have in regards to the Plex Media Server application
-
 # Table of Contents
 - [Plex Media Server FAQ](#plex-media-server-faq)
 - [Table of Contents](#table-of-contents)
